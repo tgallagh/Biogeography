@@ -1,0 +1,46 @@
+X	logFC	logCPM	LR	PValue	FDR	UniversalAnnotation	GeneAnnotation	GeneCategory
+898	PA14_06450	-2.590458668	3.573401797	15.33519149	9e-05	0.044507146	NA	acetyl-CoA carboxylase biotin carboxylase subunit	Fatty acid and phospholipid metabolism
+1302	PA14_09370	-3.864541352	2.630936707	14.17079193	0.000166942	0.048916762	NA	hypothetical protein	Membrane proteins
+1446	PA14_10400	-7.76835338	1.393796516	17.01368037	3.71e-05	0.03580441	NA	hypothetical protein	Hypothetical, unclassified, unknown
+1516	PA14_10900	-4.951708605	2.666585585	21.03415324	4.51e-06	0.015532241	NA	alcohol dehydrogenase	Putative enzymes
+1525	PA14_10960	-2.119804093	3.986634423	14.18290677	0.00016587	0.048916762	NA	ferredoxin oxidoreductase subunit	Putative enzymes
+1779	PA14_12820	-2.30963198	4.966052801	13.86452523	0.000196472	0.048916762	NA	two-component sensor	Two-component regulatory systems
+1887	PA14_13650	-2.432848402	4.839830441	16.7969192	4.16e-05	0.03580441	NA	hypothetical protein	Carbon compound catabolism
+1994	PA14_14420igr	-3.219917456	5.950068627	14.44553111	0.000144272	0.048916762	NA	hypothetical protein	Hypothetical, unclassified, unknown
+2553	PA14_18275	-2.58409774	3.544897688	13.54404177	0.00023303	0.048916762	fruA	phosphotransferase system, fructose-specific IIBC component	Hypothetical, unclassified, unknown
+2563	PA14_18370igr	-3.148637754	2.615947925	13.85807601	0.000197148	0.048916762	NA	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase	Amino acid biosynthesis and metabolism
+2572	PA14_18470	-3.206118139	3.081049577	13.79038003	0.00020438	0.048916762	algL	poly(beta-D-mannuronate) lyase	Secreted Factors (toxins, enzymes, alginate)
+2792	PA14_20040	-4.4898973	2.941183947	16.50652936	4.85e-05	0.036209628	hasE	metalloprotease secretion protein	Protein secretion/export apparatus
+2808	PA14_20170	-4.427025634	2.535624636	15.07597839	0.000103269	0.048480154	nosY	NosY protein	Energy metabolism
+3094	PA14_22100	-4.124224367	3.549862538	16.133509	5.9e-05	0.038643366	NA	hypothetical protein	Hypothetical, unclassified, unknown
+3734	PA14_26650	-2.380360494	3.30123854	14.53885528	0.000137298	0.048916762	NA	short chain dehydrogenase	Putative enzymes
+4079	PA14_28880	-2.852907063	3.538437555	13.47663541	0.000241553	0.048916762	NA	hypothetical protein	Hypothetical, unclassified, unknown
+4135	PA14_29230igr	-5.074900195	2.673622989	16.88941538	3.96e-05	0.03580441	NA	hypothetical protein	Putative enzymes
+4375	PA14_30910igr	-4.956296366	1.412778371	15.88390579	6.73e-05	0.038643366	NA	conjugal transfer ATPase TrbE	Related to phage, transposon, or plasmid
+4396	PA14_31080	-4.802482889	1.549236592	14.01359114	0.000181494	0.048916762	NA	conjugal transfer protein	Related to phage, transposon, or plasmid
+4512	PA14_31890	-1.85794301	5.06264225	14.74315773	0.000123194	0.048916762	NA	RND efflux transporter	Transport of small molecules
+4617	PA14_32740	-1.915359709	4.628278608	13.72668534	0.000211429	0.048916762	NA	TonB-dependent receptor	Transport of small molecules
+4729	PA14_33580	-5.427657048	1.870359845	18.37444542	1.81e-05	0.031269901	NA	hypothetical protein	Hypothetical, unclassified, unknown
+4811	PA14_34190	-3.774177186	2.772307186	16.04706152	6.18e-05	0.038643366	msuD	methanesulfonate sulfonatase MsuD	Carbon compound catabolism
+5148	PA14_36740	-2.13237665	4.132524581	14.1144749	0.000172015	0.048916762	NA	hypothetical protein	Putative enzymes
+5232	PA14_37380igr	-7.110384651	0.626056564	13.54874519	0.000232447	0.048916762	NA	flavin-binding monooxygenase	Transport of small molecules
+5240	PA14_37460	-3.985982085	2.930801069	13.95840844	0.0001869	0.048916762	NA	permease	Transport of small molecules
+5249	PA14_37560	-2.901174508	3.499304828	14.28999398	0.000156696	0.048916762	NA	asparagine synthetase, glutamine-hydrolysing	Amino acid biosynthesis and metabolism
+5257	PA14_37610igr	-7.472220574	0.915515506	16.99567294	3.75e-05	0.03580441	NA	kynureninase	Amino acid biosynthesis and metabolism
+5294	PA14_37900igr	-4.973921317	2.145022844	18.37250069	1.82e-05	0.031269901	sppR	TonB-dependent receptor, SppR	Membrane proteins
+5333	PA14_38190	-4.407226071	2.874052073	15.96901425	6.44e-05	0.038643366	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5444	PA14_39000	-2.791732711	4.116932019	13.64583294	0.000220731	0.048916762	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5904	PA14_42300	-4.979305571	1.652490675	14.19665445	0.000164663	0.048916762	pscG	type III export protein PscG	Protein secretion/export apparatus
+6072	PA14_43570	-4.851120667	1.96998811	13.62845252	0.000222783	0.048916762	NA	hypothetical protein	Transport of small molecules
+6509	PA14_46640	-2.269590707	4.590077632	13.49843757	0.000238762	0.048916762	NA	siderophore receptor	Transport of small molecules
+6562	PA14_46990igr	-7.999147439	2.182039539	23.99320049	9.67e-07	0.00998475	NA	two-component response regulator	Two-component regulatory systems
+6728	PA14_48300	-2.270437188	3.848938976	13.84766415	0.000198243	0.048916762	NA	MFS transporter	Transport of small molecules
+7774	PA14_55330	-8.557935024	2.404616604	21.5020961	3.53e-06	0.015532241	NA	hypothetical protein	Hypothetical, unclassified, unknown
+7791	PA14_55480	-3.869034535	2.697860351	14.46380021	0.000142879	0.048916762	hxcX	HxcX	Protein secretion/export apparatus
+7888	PA14_56140	-2.169468152	3.870840526	13.87729354	0.000195142	0.048916762	NA	hypothetical protein	Hypothetical, unclassified, unknown
+7983	PA14_56890igr	-3.586227397	1.512985902	16.905758	3.93e-05	0.03580441	NA	multidrug efflux protein	Antibiotic resistance and susceptibility
+8964	PA14_63640	-3.04138714	3.68233761	15.32529288	9.05e-05	0.044507146	fadH2	2,4-dienoyl-CoA reductase	Fatty acid and phospholipid metabolism
+8971	PA14_63710	-5.294966522	2.559972092	17.52601088	2.83e-05	0.03580441	NA	glycosyl transferase family protein	Transport of small molecules
+9567	PA14_68090	-2.424592587	3.254624991	13.49352119	0.000239389	0.048916762	NA	ABC transporter permease	Transport of small molecules
+10028	PA14_71300	-4.20803403	2.553821024	18.55154481	1.65e-05	0.031269901	NA	electron transfer flavoprotein alpha subunit	Energy metabolism
+10048	PA14_71430igr	-2.270384725	4.489907898	15.63880056	7.67e-05	0.041673621	NA	hypothetical protein	Hypothetical, unclassified, unknown

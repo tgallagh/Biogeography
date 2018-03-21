@@ -1,0 +1,2 @@
+X	logFC	logCPM	LR	PValue	FDR	UniversalAnnotation	GeneAnnotation	GeneCategory
+8967	PA14_63650igr	3.011488636	3.559927783	14.71359516	0.000125141	0.042287953	NA	hypothetical protein	Hypothetical, unclassified, unknown

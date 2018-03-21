@@ -1,0 +1,40 @@
+X	logFC	logCPM	LR	PValue	FDR	UniversalAnnotation	GeneAnnotation	GeneCategory
+894	PA14_06400igr	-7.756977881	0.759468311	21.72647358	3.14e-06	0.013558983	NA	LysR family transcriptional regulator	Transcriptional regulators
+898	PA14_06450	-2.490044838	3.573401797	14.76470069	0.000121794	0.042287953	NA	acetyl-CoA carboxylase biotin carboxylase subunit	Fatty acid and phospholipid metabolism
+1043	PA14_07590	-2.133900877	3.300007805	13.90909409	0.000191868	0.049591117	folB	dihydroneopterin aldolase	Biosynthesis of cofactors, prosthetic groups and carriers
+1446	PA14_10400	-7.76835338	1.393796516	17.29873139	3.19e-05	0.037673267	NA	hypothetical protein	Hypothetical, unclassified, unknown
+2108	PA14_15240	-4.320295864	2.551554754	14.42066954	0.000146189	0.0457527	NA	LysR family transcriptional regulator	Transcriptional regulators
+2573	PA14_18480	-3.360337279	3.259355021	14.02650099	0.000180252	0.049591117	algX	alginate biosynthesis protein AlgX	Secreted Factors (toxins, enzymes, alginate)
+2712	PA14_19500	-3.689770021	3.041251388	14.0004383	0.000182768	0.049591117	NA	hypothetical protein	Transport of small molecules
+2721	PA14_19570	-3.0407804	2.557469372	16.62118722	4.56e-05	0.038580865	NA	ABC transporter permease	Transport of small molecules
+2836	PA14_20390	-5.506427042	2.710931242	20.49742663	5.97e-06	0.013558983	phnJ	hypothetical protein	Transport of small molecules
+2838	PA14_20420	-4.350958951	2.34514201	16.16234479	5.81e-05	0.0417523	phnL	phosphonate ABC transporter ATPase	Transport of small molecules
+3248	PA14_23130igr	-3.823791208	2.436542184	17.24655976	3.28e-05	0.037673267	NA	sensory box GGDEF domain-containing protein	Two-component regulatory systems
+3743	PA14_26730	-2.87318313	3.401229778	15.49776833	8.26e-05	0.0417523	NA	short-chain dehydrogenase	Putative enzymes
+4135	PA14_29230igr	-4.307037084	2.673622989	14.06181222	0.000176899	0.049591117	NA	hypothetical protein	Putative enzymes
+4375	PA14_30910igr	-7.878093451	1.412778371	21.29885148	3.93e-06	0.013558983	NA	conjugal transfer ATPase TrbE	Related to phage, transposon, or plasmid
+4396	PA14_31080	-4.719623193	1.549236592	13.90716657	0.000192065	0.049591117	NA	conjugal transfer protein	Related to phage, transposon, or plasmid
+4821	PA14_34280	-3.704810553	2.720309587	15.16485415	9.85e-05	0.0417523	NA	hypothetical protein	Transport of small molecules
+4825	PA14_34320	-3.600201056	3.177137298	17.68315878	2.61e-05	0.037673267	NA	DszC family monooxygenase	Putative enzymes
+5064	PA14_36080	-2.950221174	3.570361647	14.8824761	0.000114421	0.042287953	NA	MFS transporter	Transport of small molecules
+5292	PA14_37880	-2.246461766	3.817138712	15.11669034	0.000101066	0.0417523	sppA	ABC transporter substrate-binding protein, SppA	Transport of small molecules
+5294	PA14_37900igr	-4.280065686	2.145022844	15.80945398	7.01e-05	0.0417523	sppR	TonB-dependent receptor, SppR	Membrane proteins
+5333	PA14_38190	-3.974710881	2.874052073	14.30274774	0.000155638	0.047277188	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5334	PA14_38190igr	-3.430436373	3.421367814	14.66089307	0.000128689	0.042287953	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5444	PA14_39000	-3.134110843	4.116932019	16.50342465	4.86e-05	0.038580865	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5457	PA14_39080igr	-7.475061245	1.060237612	14.62699988	0.000131024	0.042287953	NA	hypothetical protein	Hypothetical, unclassified, unknown
+5526	PA14_39590igr	-4.59257073	1.451543091	15.16330189	9.86e-05	0.0417523	metE	5- methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase	Amino acid biosynthesis and metabolism
+5936	PA14_42570	-5.071943229	2.774550283	19.96748683	7.88e-06	0.013558983	pscN	type III secretion system ATPase	Protein secretion/export apparatus
+6507	PA14_46630	-4.317016813	2.782949688	14.9764038	0.000108864	0.042287953	NA	hypothetical protein	Central intermediary metabolism
+6819	PA14_48970	-4.673430804	2.112959074	16.59467915	4.63e-05	0.038580865	NA	helix destabilizing protein of bacteriophage Pf1	Related to phage, transposon, or plasmid
+6930	PA14_49700igr	-3.951522524	2.004948133	15.46104871	8.42e-05	0.0417523	NA	transcriptional regulator	Transcriptional regulators
+7219	PA14_51610igr	-8.109701574	1.932206648	20.17885854	7.05e-06	0.013558983	NA	hypothetical protein	Hypothetical, unclassified, unknown
+7409	PA14_52870	-4.216260124	2.713194308	15.13165502	0.000100268	0.0417523	NA	hypothetical protein	Putative enzymes
+7593	PA14_54070igr	-4.778101476	1.482804188	14.68325906	0.000127171	0.042287953	NA	hypothetical protein	Hypothetical, unclassified, unknown
+7779	PA14_55390	-5.661711402	2.553578542	16.97395719	3.79e-05	0.038580865	NA	hypothetical protein	Hypothetical, unclassified, unknown
+7956	PA14_56690	-4.748190956	1.664665762	15.35820128	8.89e-05	0.0417523	feoA	ferrous iron transport protein A	Transport of small molecules
+8642	PA14_61430igr	-7.103637924	0.788110732	15.32077343	9.07e-05	0.0417523	NA	hypothetical protein	Hypothetical, unclassified, unknown
+8924	PA14_63330igr	-7.619044995	1.436902831	20.24862423	6.8e-06	0.013558983	NA	glycerolphosphodiesterase	Fatty acid and phospholipid metabolism
+9089	PA14_64550	-4.554305768	2.564704523	15.81884165	6.97e-05	0.0417523	NA	hypothetical protein	Energy metabolism
+9092	PA14_64560igr	-7.113878544	0.953003032	14.14496036	0.00016925	0.049591117	NA	hypothetical protein	Hypothetical, unclassified, unknown
+9108	PA14_64700	-4.761538731	2.109687767	15.19025737	9.72e-05	0.0417523	NA	RNA polymerase sigma factor	Transcriptional regulators

@@ -1,0 +1,7 @@
+X	logFC	logCPM	LR	PValue	FDR	UniversalAnnotation	GeneAnnotation	GeneCategory
+1009	PA14_07370	3.586511803	3.566125405	14.02015839	0.000180861	0.048916762	NA	hypothetical protein	Hypothetical, unclassified, unknown
+1224	PA14_08830igr	2.838435144	4.235242113	14.50299747	0.000139937	0.048916762	tufA	elongation factor Tu	Translation, post-translational modification, degradation
+2393	PA14_17140igr	2.953604208	3.314840658	13.58526359	0.000227968	0.048916762	NA	membrane-associated zinc metalloprotease	Membrane proteins
+3316	PA14_23570igr	4.187198859	3.820557577	14.57175238	0.000134922	0.048916762	NA	tRNA-Ala	Non-coding RNA gene
+8635	PA14_61390	1.878799898	5.405000881	16.48318191	4.91e-05	0.036209628	NA	lipoprotein	Fatty acid and phospholipid metabolism
+8898	PA14_63170igr	2.239956218	4.110013462	14.89622623	0.00011359	0.048916762	NA	transcriptional regulator	Transcriptional regulators
